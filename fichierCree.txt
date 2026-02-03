@@ -1,1 +1,2 @@
 Ceci est un fichier crée 
+Imaginons que cette ligne permet de fix un bug
